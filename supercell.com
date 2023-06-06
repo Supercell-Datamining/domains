@@ -47,6 +47,7 @@ backup-ext.supercell.com
 backup.supercell.com
 barracuda.supercell.com
 board.builder.supercell.com
+boombeach-api.inbox.supercell.com
 boombeach.inbox-v4-dev.supercell.com
 boombeach.inbox.supercell.com
 brand.supercell.com
