@@ -308,6 +308,7 @@ scroll.builder.supercell.com
 search.support.supercell.com
 securemail.supercell.com
 security-apac.staging.nonprod.id.supercell.com
+security-eu.id.supercell.com
 security.staging.nonprod.id.supercell.com
 security.us.staging.nonprod.id.supercell.com
 seed-builder.supercell.com
