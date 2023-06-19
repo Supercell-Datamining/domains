@@ -89,7 +89,9 @@ clashmini.inbox-v4-stage.supercell.com
 clashmini.inbox.supercell.com
 clashofclans.inbox-v4-prod.supercell.com
 clashquest.inbox.supercell.com
+clashroyale-api.inbox.supercell.com
 clashroyale.inbox-v4-prod.supercell.com
+clashroyale.inbox.supercell.com
 click.news.supercell.com
 cms.clashevents-dev.supercell.com
 cms.creators-dev.supercell.com
