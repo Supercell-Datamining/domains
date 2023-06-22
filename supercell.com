@@ -60,6 +60,8 @@ catalog.supercell.com
 cdn.id.supercell.com
 cdn.staging.nonprod.id.supercell.com
 cdn.supercell.com
+chronos-battlegrounds.supercell.com
+chronos-battlegrounds.supercell.com
 chronos-branch-stage.supercell.com
 chronos-integration-ext-1.supercell.com
 chronos-integration-ext-2.supercell.com
@@ -112,8 +114,6 @@ codeload.git-dev.supercell.com
 collector.snowplow.supercell.com
 crash-monitor.builder.supercell.com
 crash.builder.supercell.com
-creator-points-dev.supercell.com
-creator-points-dev.supercell.com
 creators-api-development.supercell.com
 creators-api-staging.supercell.com
 creators-api.supercell.com
@@ -309,6 +309,7 @@ scroll-monitor.builder.supercell.com
 scroll.builder.supercell.com
 search.support.supercell.com
 securemail.supercell.com
+security-apac.id.supercell.com
 security-apac.staging.nonprod.id.supercell.com
 security-eu.id.supercell.com
 security-us.id.supercell.com
