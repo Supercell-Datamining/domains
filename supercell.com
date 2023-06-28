@@ -27,7 +27,6 @@ api.creators-dev.supercell.com
 api.creators-staging.supercell.com
 api.creators.supercell.com
 api.make-dev.supercell.com
-api.make-staging.supercell.com
 api.make.supercell.com
 api.support.supercell.com
 apollo.supercell.com
@@ -114,6 +113,7 @@ codeload.git-dev.supercell.com
 collector.snowplow.supercell.com
 crash-monitor.builder.supercell.com
 crash.builder.supercell.com
+creator-points-dev.supercell.com
 creators-api-development.supercell.com
 creators-api-staging.supercell.com
 creators-api.supercell.com
@@ -402,6 +402,7 @@ vpn.supercell.com
 vpn2.supercell.com
 webmail.supercell.com
 website-api.supercell.com
+websocket.loadtest.nonprod.id.supercell.com
 whoami.supercell.com
 wiki.supercell.com
 wikiold.supercell.com
