@@ -23,10 +23,13 @@ alb-forum-content.supercell.com
 alpha.chronos-dev.supercell.com
 analytics.support.supercell.com
 annotator.spamhammer.supercell.com
+api-private.loadtest.nonprod.id.supercell.com
+api-public.loadtest.nonprod.id.supercell.com
 api.creators-dev.supercell.com
 api.creators-staging.supercell.com
 api.creators.supercell.com
 api.make-dev.supercell.com
+api.make-staging.supercell.com
 api.make.supercell.com
 api.support.supercell.com
 apollo.supercell.com
@@ -59,7 +62,6 @@ catalog.supercell.com
 cdn.id.supercell.com
 cdn.staging.nonprod.id.supercell.com
 cdn.supercell.com
-chronos-battlegrounds.supercell.com
 chronos-battlegrounds.supercell.com
 chronos-branch-stage.supercell.com
 chronos-integration-ext-1.supercell.com
@@ -113,6 +115,8 @@ codeload.git-dev.supercell.com
 collector.snowplow.supercell.com
 crash-monitor.builder.supercell.com
 crash.builder.supercell.com
+creativelibrary-staging.supercell.com
+creativelibrary.supercell.com
 creator-points-dev.supercell.com
 creators-api-development.supercell.com
 creators-api-staging.supercell.com
@@ -407,6 +411,7 @@ whoami.supercell.com
 wiki.supercell.com
 wikiold.supercell.com
 workstationapi.supercell.com
+ws-grpc.loadtest.nonprod.id.supercell.com
 www.main-website-dev.supercell.com
 www.main-website-stage.supercell.com
 www.supercell.com
