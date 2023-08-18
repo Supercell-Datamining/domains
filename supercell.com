@@ -23,16 +23,20 @@ alb-forum-content.supercell.com
 alpha.chronos-dev.supercell.com
 analytics.support.supercell.com
 annotator.spamhammer.supercell.com
+api-alb.loadtest.nonprod.id.supercell.com
+api-alb.staging.nonprod.id.supercell.com
 api-private.loadtest.nonprod.id.supercell.com
 api-public.loadtest.nonprod.id.supercell.com
 api.creators-dev.supercell.com
 api.creators-staging.supercell.com
 api.creators.supercell.com
+api.loadtest.nonprod.id.supercell.com
 api.make-dev.supercell.com
 api.make-staging.supercell.com
 api.make.supercell.com
 api.support.supercell.com
 apollo.supercell.com
+application.tech-guides.supercell.com
 asset-integration.mtech.supercell.com
 asset.mtech.supercell.com
 assets.git-dev.supercell.com
@@ -79,6 +83,7 @@ chronos-staging.supercell.com
 chronos-tencent.supercell.com
 chronos.supercell.com
 clash-mini.inbox-v4-dev.supercell.com
+clashchess.supercell.com
 clashevents-dev.supercell.com
 clashevents-staging.supercell.com
 clashevents.supercell.com
@@ -96,6 +101,7 @@ clashroyale.inbox-v4-prod.supercell.com
 clashroyale.inbox.supercell.com
 click.news.supercell.com
 cms.clashevents-dev.supercell.com
+cms.clashevents-staging.supercell.com
 cms.creators-dev.supercell.com
 cms.creators-staging.supercell.com
 cms.creators.supercell.com
@@ -127,6 +133,7 @@ creators.supercell.com
 crop-china-master.builder.supercell.com
 crop.builder.supercell.com
 datadog.supercell.com
+dev.clashchess.supercell.com
 dev.floodrush.supercell.com
 dev.squadbusters.supercell.com
 devbuilds.inbox-v4-dev.supercell.com
@@ -260,6 +267,7 @@ o5.sg.t.supercell.com
 o6.sg.t.supercell.com
 o7.sg.news.supercell.com
 o8.sg.news.supercell.com
+oauthmanagement.staging.nonprod.id.supercell.com
 old.store.supercell.com
 ollitest.builder.supercell.com
 outlook.supercell.com
@@ -274,8 +282,11 @@ preview.main-website-dev.supercell.com
 preview.main-website-prod.supercell.com
 preview.main-website-stage.supercell.com
 private-prod.id.supercell.com
+private-social.loadtest.nonprod.id.supercell.com
+private-social.staging.nonprod.id.supercell.com
 private-staging.id.supercell.com
 privatebin.supercell.com
+prod.clashchess.supercell.com
 prod.floodrush.supercell.com
 prod.spamhammer.supercell.com
 prod.squadbusters.supercell.com
@@ -283,6 +294,8 @@ production.chronos-china.supercell.com
 proxy.supercell.com
 ptr1.supercell.com
 ptr2.supercell.com
+public-social.loadtest.nonprod.id.supercell.com
+public-social.staging.nonprod.id.supercell.com
 push-notifications-api-integration.supercell.com
 push-notifications-api-loadtest.supercell.com
 push-notifications-api.supercell.com
@@ -328,6 +341,7 @@ selvpn.supercell.com
 services-builder.supercell.com
 services-monitor.builder.supercell.com
 services.builder.supercell.com
+services.testing.nonprod.id.supercell.com
 sfo-jyrkitestlvm.supercell.com
 sfo-oob.supercell.com
 sfoextavvpn.supercell.com
@@ -358,6 +372,7 @@ squadbusters.inbox.supercell.com
 squadbusters.supercell.com
 ssh.supercell.com
 sso.supercell.com
+staging.clashchess.supercell.com
 staging.floodrush.supercell.com
 staging.id.supercell.com
 staging.nonprod.id.supercell.com
@@ -386,6 +401,7 @@ titan.builder.supercell.com
 tools.community.supercell.com
 tube-dev.supercell.com
 tube.supercell.com
+twitch.supercell.com
 tyo-oob.supercell.com
 tyomobilevpn.supercell.com
 tyovpn.supercell.com
