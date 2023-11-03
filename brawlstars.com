@@ -5,6 +5,9 @@ api-integration.brawlstars.com
 api-loadtest.brawlstars.com
 api-loc-test.brawlstars.com
 api.brawlstars.com
+api.pinmaker-dev.brawlstars.com
+api.pinmaker-staging.brawlstars.com
+api.pinmaker.brawlstars.com
 blog.brawlstars.com
 brawlstars.com
 click.brawlstars.com
@@ -30,6 +33,7 @@ lb7.socketserver.event.brawlstars.com
 lb8.socketserver.event.brawlstars.com
 leaderboard.brawlstars.com
 link-cn.brawlstars.com
+link-dev.brawlstars.com
 link-staging.brawlstars.com
 link.brawlstars.com
 o3.sg.brawlstars.com
@@ -37,6 +41,7 @@ o4.sg.brawlstars.com
 pinmaker-dev.brawlstars.com
 pinmaker-staging.brawlstars.com
 pinmaker.brawlstars.com
+play.brawlstars.com
 sg.brawlstars.com
 socketserver.event.brawlstars.com
 staging.inbox.brawlstars.com
