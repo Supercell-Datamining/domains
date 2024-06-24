@@ -146,6 +146,7 @@ clashesports-staging.supercell.com
 clashesports.supercell.com
 clashevents-dev.supercell.com
 clashevents-staging.supercell.com
+clashevents-staging.supercell.com
 clashevents.supercell.com
 clashmini-api.inbox.supercell.com
 clashmini-preview.inbox-v4-dev.supercell.com
@@ -194,7 +195,6 @@ collector.snowplow.supercell.com
 crash-monitor.builder.supercell.com
 crash.builder.supercell.com
 creativelibrary-dev.supercell.com
-creativelibrary-staging.supercell.com
 creativelibrary.supercell.com
 creator-points-dev.supercell.com
 creator-points-stg.supercell.com
@@ -451,6 +451,7 @@ reef.builder.supercell.com
 render.git-dev.supercell.com
 report.mtech.supercell.com
 revocations.supercell.com
+rogue-api.inbox-staging.supercell.com
 rogue-api.inbox-v4-dev.supercell.com
 rogue-api.inbox.supercell.com
 rogue.inbox-staging.supercell.com
